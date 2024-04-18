@@ -1,0 +1,68 @@
+{
+  "name": "hortatech-dashboard-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@fullcalendar/common": "^5.11.5",
+    "@fullcalendar/daygrid": "^6.1.11",
+    "@fullcalendar/interaction": "^6.1.11",
+    "@fullcalendar/react": "^6.1.11",
+    "@fullcalendar/timegrid": "^6.1.11",
+    "@headlessui/react": "^1.7.18",
+    "@iconify-icons/mdi": "^1.2.48",
+    "@iconify/react": "^4.1.1",
+    "@mui/lab": "^5.0.0-alpha.166",
+    "@mui/material": "^5.15.11",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.17",
+    "@mui/x-date-pickers": "^6.19.5",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "date": "^2.0.4",
+    "date-fns": "^3.3.1",
+    "dayjs": "^1.11.10",
+    "file-saver": "^2.0.5",
+    "leaflet": "^1.9.4",
+    "react": "^18.2.0",
+    "react-big-calendar": "^1.11.0",
+    "react-chat-elements": "^12.0.14",
+    "react-dom": "^18.2.0",
+    "react-grid-layout": "^1.4.4",
+    "react-router-dom": "^6.22.1",
+    "react-scripts": "5.0.1",
+    "styled-components": "^6.1.8",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@iconify/tailwind": "^0.1.4",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}

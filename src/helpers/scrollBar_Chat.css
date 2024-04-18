@@ -1,0 +1,22 @@
+  ::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: rgba(0,0,0,0); 
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    height: 25px;
+    background: #888;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+  .scroll-from-bottom {
+    scroll-behavior: smooth;
+    scroll-margin-top: auto;
+  }
+  
